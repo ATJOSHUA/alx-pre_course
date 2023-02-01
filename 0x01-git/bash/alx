@@ -1,5 +1,5 @@
- update_script
-echo
+<<<<< master
 !/bin/bash
 echo "ALX School"
+#!/bin/bash
 
